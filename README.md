@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Frameworks, React.js**
 
-- 🧠 Always curious about how **tech** is Evolving.
-
+- 🧠 I'm always curious about how **tech** is Evolving.
+  
 - 💬 Ask me about **JavaScript, Java**
 
 - 📫 How to reach me **krishna.mathiyalagan01@gmail.com**
