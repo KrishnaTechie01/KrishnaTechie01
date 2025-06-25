@@ -1,41 +1,29 @@
-<h1 align="center">👋Hey, I'm Krishna M</h1>
-<h3 align="center">💡Tech Explorer &nbsp; | &nbsp; 🤖 AI Enthusiast<br></h3>
+<h1 align="center">Hi 👋, I'm Krishna M</h1>
+<h3 align="center">Passionate about Learning and Exploring new things.</h3>
 
-<p align="center">
-  <a href="mailto:krishna.mathiyalagan01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kris-ms"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+- 🌱 I’m currently learning **Frameworks, React.js**
+
+- 🧠 Always curious about how **tech** is Evolving.
+
+- 💬 Ask me about **JavaScript, Java**
+
+- 📫 How to reach me **krishna.mathiyalagan01@gmail.com**
+- 
+- 🤝 Let’s **connect, build, and launch** something impactful!
+
+- ⚡ Fun fact **I love to listen to songs while working — "it keeps my creativity flowing!"**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kris-ms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kris-ms/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 💡 About Me
-
-- 🌱 Currently exploring Data Science, Generative AI, and Machine Learning.
-- 🧠 Always curious about how technology evolves, and I love telling stories about tech.
-- 🤝 Let’s connect, build, and launch something impactful!
-
----
-
-## 🛠️ Tech Toolkit
-
-### 💻 Frontend
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-
-### ⚙️ Tools & Platforms
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-
----
 
 ## 🖥️ Workspace Specs
 
 <img height="30" src="https://img.shields.io/badge/INTEL_I7_13600K-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/><img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-
-
----
-
-## 🎶 Fun Fact
-
-"I love to listen to songs while working" — it keeps my creativity flowing!
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnatechie01&show_icons=true&locale=en" alt="krishnatechie01" /></p>
