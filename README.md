@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna M</h1>
 <h3 align="center">Passionate about Learning and Exploring new things.</h3>
-<img align="right" alt="Coding" width="350" src="./app/src/assets/images/others/programming.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+
 - 🌱 I’m currently learning **Frameworks, React.js**
 
 - 💬 Ask me about **JavaScript, Java**
